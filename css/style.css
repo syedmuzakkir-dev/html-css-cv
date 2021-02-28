@@ -1,0 +1,156 @@
+body{
+    text-align: center;
+    margin: 0;
+    font-family: 'Shippori Mincho B1', serif;
+    font-family: 'Dancing Script', cursive;
+
+    /* font-family: 'Shippori Mincho B1', serif; */
+}
+h1{
+    font-size: 60px;
+    margin:100px auto 0 auto;
+    color: green;
+}
+h2{
+    color: green;
+}
+h3{
+    color: rgb(54, 11, 172);
+}
+.para{
+    font-size: 30px;
+    
+
+   
+}
+p{
+    font-family:  serif;
+}
+
+.container{
+    
+    background-color: rgb(161, 226, 226);
+    position: relative;
+    padding-top: 140px;
+    padding-bottom: 10px;
+
+}
+.pro{
+    text-decoration: underline;
+}
+.top-cloud{
+
+       position: absolute; 
+       right: 340px;
+       bottom: 450px;
+        
+           
+}
+.bottom-cloud{
+    position: absolute;
+    left: 375px;
+    bottom: 110px;
+    
+}
+.mountain{
+    padding-top: 90px;
+}
+.muzakkir{
+    margin-top: 50px;
+    width: 15%;
+}
+.design{
+    width: 25%;
+    float: left;
+    /* margin: -50px 30px auto 0; */
+    margin-right: 30px;
+    
+    
+}
+.skills{
+
+    width: 25%;
+    float: right;
+   
+}
+
+.skills-row{
+    margin: 0 auto 0 auto;
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+}
+
+.intro{
+    width: 35%;
+    margin: 30px auto 90px auto;
+    line-height: 2;
+    
+ }
+    
+
+.h2{
+    /* margin-left: 267px;
+    margin-top: 40px;
+     margin-bottom: 100px;
+    font-size: 40px;
+    color: green;
+    display:flex; */
+    
+    font-size: 40px;
+    text-align: center;
+    color: green;
+    margin-top: 50px;
+    
+ } 
+.pi{
+    padding-bottom: 100px;
+    margin-bottom: 50px;
+    line-height: 2;
+    
+}
+.h22{
+    margin-top: 150px;
+    color: green;
+}
+hr{
+    margin-top: 20px;
+    width: 4%;
+    border: dotted;
+    border-width: 6px;
+    border-bottom: none;
+
+}
+.hhr{
+    margin-top: 60px;
+}
+
+.contact-us{
+    display: inline-flex;
+
+    text-decoration: none;
+    color: rgb(16, 4, 26);
+    padding: 13px 10px 10px 10px;
+
+    font-size: 25px;
+    background-color: rgb(155, 233, 155);
+    border-radius: 30px;
+    border-style: 2px solid;
+    margin: 35px auto 0px auto;
+
+}
+.footer{
+    background-color: gray;
+    height: 160px;
+    margin-top: 10px;
+}
+.contact-us:hover{
+
+    background-color: honeydew;
+
+}
+
+.pfooter{
+padding-bottom: 20px;
+}
+
